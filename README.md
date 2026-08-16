@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./gothic-desk-banner.svg" width="100%" alt="banner" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF2B2B&center=true&vCenter=true&width=650&lines=AI+Solutions+Intern+%40+Navigate+Labs;Building+RAG+systems+that+actually+retrieve+the+right+thing;Sharp.+Outspoken.+Building+it+my+way.)](https://git.io/typing-svg)
 
 </div>
 
