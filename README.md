@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="./cyberpunk-banner.svg" width="100%" alt="Aathirai Yaazhini — AI / ML Engineer" />
-
-<br/><br/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=E9D5FF&center=true&vCenter=true&width=650&lines=AI+Solutions+Intern+%40+Navigate+Labs;Building+RAG+systems+that+actually+retrieve+the+right+thing;Sharp.+Outspoken.+Building+it+my+way.)](https://git.io/typing-svg)
 
 </div>
@@ -60,8 +56,6 @@ A forensic analysis platform with a React/TypeScript frontend and a serverless b
 
 **Viyal**
 
-`[add description]`
-
 [**View Repo →**](https://github.com/AathiraiYaazhini14/Viyal.git)
 
 </td>
@@ -89,8 +83,8 @@ A forensic analysis platform with a React/TypeScript frontend and a serverless b
 
 <div align="center">
 
-<!-- Replace SPOTIFY_TRACK_OR_PLAYLIST_ID below with your actual track/playlist ID from the Spotify share link -->
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/SPOTIFY_TRACK_OR_PLAYLIST_ID?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<!-- Replace the # below with your actual Spotify track/playlist link -->
+[![Spotify](https://img.shields.io/badge/Spotify-Listen%20on%20Spotify-8b5cf6?style=for-the-badge&logo=spotify&logoColor=white)](#)
 
 </div>
 
