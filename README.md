@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./banner.gif" width="100%" alt="Aathirai Yaazhini — banner" />
+
+<br/><br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=E9D5FF&center=true&vCenter=true&width=800&lines=AI+Solutions+Intern+%40+Navigate+Labs;Building+RAG+systems+that+actually+retrieve+the+right+thing;Sharp.+Outspoken.+Building+it+my+way.)](https://git.io/typing-svg)
 
 </div>
