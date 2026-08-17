@@ -48,7 +48,7 @@ RAG-based system with hybrid retrieval — BM25 + vector search, HyDE, multi-que
 
 `FastAPI` `Pinecone` `Groq` `Gemini Embeddings`
 
-**[→ Repo link — add here]**
+
 
 </td>
 <td width="50%" valign="top">
@@ -58,7 +58,7 @@ A forensic analysis platform, React/TypeScript frontend with a serverless backen
 
 `React` `TypeScript` `Vite`
 
-**[→ Repo link — add here]**
+
 
 </td>
 </tr>
@@ -66,13 +66,13 @@ A forensic analysis platform, React/TypeScript frontend with a serverless backen
 <td width="50%" valign="top">
 
 ### ⚔️ Viyal
-**[→ Repo link — add here]**
+
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚔️ [Your next project]
-**[→ Repo link — add here]**
+
 
 </td>
 </tr>
